@@ -1,13 +1,13 @@
 {
-  "name": "InSight",
-  "description": "InSIght",
+  "name": "Budget",
+  "description": "Budget",
   "scripts": {
     "test": "jest app/assets/javascripts/__spec__/",
     "postinstall": "gulp build --production"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tokagen/insight.git"
+    "url": "https://github.com/far-rel/tokagen-budget"
   },
   "browserify": {
     "transform": [
